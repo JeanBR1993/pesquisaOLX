@@ -13,7 +13,7 @@ list = ['DDD 11 - São Paulo e região', 'DDD 12 - V. do Paraíba e Litoral Nort
 for x in range(len(list)):
     print(x,'-', list[x])
 query2 = input()
-print('Qual ordem de pesquisa? (0 - mais recente, 1 - relevancia ou 2 - mais barato?')
+print('Qual ordem de pesquisa? (0 - mais recente, 1 - relevancia ou 2 - mais barato?)')
 query3 = input()
 listordem = ['.ja3zle-9:nth-child(1)', '.ja3zle-9:nth-child(2)', '.ja3zle-9:nth-child(3)']
 
